@@ -1,1 +1,1 @@
-print("I'm taking up OJT next school year")
+print("I'm taking up OJT this 2nd semester")
